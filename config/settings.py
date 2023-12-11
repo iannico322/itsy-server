@@ -34,8 +34,8 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     'localhost',
     '0.0.0.0',
-    'https://itsy.pythonanywhere.com/',
-    'https://iannico322.github.io/'
+    'itsy.pythonanywhere.com',
+    'iannico322.github.io'
     'Zero322.pythonanywhere.com'
   
 ]
